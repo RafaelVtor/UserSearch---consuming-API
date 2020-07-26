@@ -1,0 +1,59 @@
+body{
+  padding:50px;
+}
+h1{  
+  text-align: center;
+  font-size: 40px; 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 20px;
+}
+
+img{
+  border-radius: 50%;
+  
+}
+
+.search{
+  width: 85%;
+  margin: 10px;
+  
+}
+
+.resultContent{
+  display: flex;
+  width: 100%;
+  margin:20px;
+  
+}
+
+.resultContentPeople{
+  display: flex;  
+  padding: 10px;
+}
+
+.resultSearch{
+  display: flex;
+  justify-content:space-between;
+  padding: 40px;
+}
+
+.resultImage{
+  margin: 5px;
+}
+
+.resultName{
+  margin: 5px;
+  
+}
+
+.statistics{
+  
+  margin-right: 100px;
+}
+
+.resultLabel, .statisticsLabel{
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  
+}
